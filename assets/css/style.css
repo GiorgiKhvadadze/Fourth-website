@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+}
+
+.from-top{
+    margin-top: 20px;
+}
+
+.from-top-2{
+    margin-top: 200px;
+}
+
+li{
+    list-style: none;
+}
+
+header li{
+    color: white;
+}
+
+header p{
+    font-family: avenir-next-rounded-med,Arial,sans-serif;
+}
+
+h1{
+    color: white
+}
+
+p{
+    color: white;
+
+}
+.card{
+    background-color: black;
+}
+
+.image-fit{
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+}
