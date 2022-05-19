@@ -1,5 +1,7 @@
 body{
+    margin: 0;
     background-color: black;
+    overflow-x: hidden;
 }
 
 .from-top{
@@ -38,4 +40,12 @@ p{
     width: 500px;
     height: 500px;
     object-fit: cover;
+}
+
+.from-left{
+    margin-left: 10%;
+}
+
+.from-left-2{
+    margin-left: 50%;
 }
