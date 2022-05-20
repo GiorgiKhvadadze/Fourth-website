@@ -6,6 +6,11 @@ body{
 header b{
     color: black;
 }
+
+
+.nav-link li{
+    margin-right:15px;
+}
 header img{
     width: 50px;
     height: 50px;
@@ -13,11 +18,9 @@ header img{
 }
 .card{
     border: none;
+    background-color: white !important;
 }
 
-.col-xl-3-a{
-    background-color: white;
-}
 .card-body{
     background-color: white;
 }
@@ -32,9 +35,6 @@ div img{
     background-color: white;
 }
 
-.poto{
-    width: 25%;
-}
 div p{
     text-align: center;
 }
